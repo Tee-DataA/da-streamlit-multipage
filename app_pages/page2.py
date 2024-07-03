@@ -1,5 +1,7 @@
 import streamlit as st
 
 def page2_body():
-    st.write("This is Page 2")
-
+    """
+    This function displays the content of Page two.
+    """
+    st.write("This is Page two!")
