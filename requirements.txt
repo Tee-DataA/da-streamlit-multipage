@@ -1,7 +1,6 @@
-altair==4.2.2
-matplotlib==3.9.0
-numpy==2.0.0
-pandas==2.2.2
-plotly==5.22.0
+numpy==1.26.1
+pandas==2.1.1
+matplotlib==3.8.0
 seaborn==0.13.2
-streamlit==1.36.0
+plotly==5.17.0
+streamlit==1.40.2
